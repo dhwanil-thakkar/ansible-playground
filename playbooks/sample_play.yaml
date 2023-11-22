@@ -1,0 +1,11 @@
+---
+- name: playbook
+  hosts: all
+  become: true
+
+  tasks:
+  - name: ensure apache is running
+    apt:
+      name: apache2
+      state: present
+      update_cache: true

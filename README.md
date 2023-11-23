@@ -1,5 +1,5 @@
 # ansible-playground
-This repository provides a simple Ubuntu docker container to create ansible-child machines.
+This repository provides a simple Ubuntu docker container to create ansible-child machines. A detailed explaination can be found in a blog [here](https://dhwanil.com/2023/11/22/creating-an-ansible-lab-environment-using-dockers-an-ansible-playground/).
 
 ### Requirements
 
